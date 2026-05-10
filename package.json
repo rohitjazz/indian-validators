@@ -33,7 +33,7 @@
     "typescript",
     "zero-dependency"
   ],
-  "author": "",
+  "author": "Ranjit Singh <rohitjazz12@gmail.com>",
   "license": "MIT",
   "files": [
     "dist",
