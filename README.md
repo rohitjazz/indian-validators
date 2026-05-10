@@ -2,7 +2,7 @@
 
 [![npm version](https://img.shields.io/npm/v/indian-validators.svg)](https://www.npmjs.com/package/indian-validators)
 [![bundle size](https://img.shields.io/bundlephobia/minzip/indian-validators)](https://bundlephobia.com/package/indian-validators)
-[![tests](https://img.shields.io/badge/tests-passing-brightgreen)](https://github.com/YOUR_USERNAME/indian-validators)
+[![tests](https://img.shields.io/badge/tests-passing-brightgreen)](https://github.com/rohitjazz/indian-validators)
 [![license](https://img.shields.io/npm/l/indian-validators)](LICENSE)
 
 > Zero-dependency, fully-typed validators for Indian identifiers — PAN, Aadhaar, GST, IFSC, PIN Code, Phone, UPI.
@@ -241,7 +241,7 @@ Every Indian startup's dev team writes these validators from scratch. This libra
 PRs welcome! If you find an edge case or want to add a new validator (Vehicle Registration, Voter ID, Driving Licence, etc.), open an issue first.
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/indian-validators
+git clone https://github.com/rohitjazz/indian-validators
 cd indian-validators
 npm install
 npm test
